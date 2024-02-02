@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alhanouff21
 - 👀 I’m interested in Building innovative solutions and embracing the open-source community
-- 🌱 I’m currently learning web develpment
+- 🌱 I’m currently creating projects for every new thing i learn 
   
 
 <!---
